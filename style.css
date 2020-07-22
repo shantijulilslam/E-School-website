@@ -1,0 +1,67 @@
+
+.icon-position{
+    height: 100px;
+    width: 200px;
+}
+.nav-decorate{
+    position: relative;
+    left: 380px;
+    font-family: Poppins;
+   
+    
+}
+.iiiustration-img{
+    width: 110%;
+    padding: 50px;
+    position: relative;
+    right: 80px;
+  }
+  .first-col-text-position{
+      position: relative;
+      left: 100px;
+    margin-top: 10px;
+  }
+.nav-iiiustration{
+    background: #F0FFF0;
+    
+}
+.button-color-sign-in{
+    background: #21B573;
+    border: #21B573;
+    border-radius: 33px;
+    padding: 5px 22px;
+    font-family: Roboto;
+    color: #FFFFFF;
+    
+}
+#color-Are-you-ready-to-learn{
+    color: #FD511A;
+   font-family: Poppins;
+}
+
+#next-para{
+ font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+
+color: #000000;
+}
+#color-any-schedule{
+    color:#21B573 ;
+}
+#lorem-color{
+    font-family: Poppins;
+    color: #6C6B6B;
+    font-size: 16px;
+   
+}
+
+.button-get-started{
+    background: #21B573;
+    border:  #21B573;
+    border-radius: 33px;
+    padding: 12px 36px;
+}
+
+
